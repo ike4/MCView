@@ -1,6 +1,0 @@
-framework module MView {
-  umbrella header "MView.h"
-
-  export *
-  module * { export * }
-}
